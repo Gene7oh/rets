@@ -1,6 +1,6 @@
 # rets
 ## _A new project_
-all about the new idx
+### all about the new idx <br>
 Start date Feb 23 2021
 ## Php Development
 ![Php Elephant](images/blue_elephant_php.jpg)
