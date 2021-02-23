@@ -10,6 +10,9 @@
     <title>rets home</title>
 </head>
 <body>
-<?php echo $message; ?>
+<div style="margin: auto; color: darkred;">
+    <?php echo $message; ?>
+</div>
+
 </body>
 </html>
