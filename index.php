@@ -1,7 +1,7 @@
 
 <?php include ("includes/header.php"); ?>
 <title>rets home</title>
-<div style="margin: auto; color: darkred;">
+<div class="content">
     <p>
         <?php
             global $message;

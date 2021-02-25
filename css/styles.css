@@ -1,14 +1,25 @@
 #body {
   text-align: center;
   }
-p {text-align: left;
+
+.content {
+  color: darkgoldenrod;
+  text-align: left;
   text-indent: 15px;
   font-size: 18px;
   }
+
 .footer {
-  color: darkblue;
-  font-size: 40px;
+  color: darkred;
+  display: inline-block;
   }
-.footer p{
-  font-size: 30px;
+
+.footer p {
+  font-size: 20px;
+  }
+
+.footer a {
+  text-decoration: none;
+  color: darkgoldenrod !important;
+  font-size: 15px;
   }
