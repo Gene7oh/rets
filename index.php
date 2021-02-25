@@ -3,9 +3,9 @@
 <title>rets home</title>
 <div style="margin: auto; color: darkred;">
     <p>
-        <?php ;
-            /** @var TYPE_NAME $message */
-            echo $message; ?>
+        <?php
+            global $message;
+            echo $message ?>
     </p>
 
 </div>
